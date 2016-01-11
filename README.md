@@ -15,7 +15,7 @@ $ rostopic echo sinus
 
 ##Sub_lcd
 
-Set up your lcd display following the instructions of this website: http://diwo.bq.com/programando-lcd/ (unfortunately is in spanish but you can follow the images)
+Set up your lcd display following the instructions of this website: http://diwo.bq.com/programando-lcd/ (unfortunately it is in spanish but you can follow the images)
 
 Once you've uploaded the code to your Arduino, open your terminal and write these following commands:
 
