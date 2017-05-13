@@ -26,7 +26,7 @@ Terminal 2:
 $ rosrun rosserial_python serial_node.py /dev/ttyUSB0
 
 Terminal 3:
-$ pub lcd std_msgs/String <string>
+$ rostopic pub lcd std_msgs/String <string>
 
 Enjoy!
 
