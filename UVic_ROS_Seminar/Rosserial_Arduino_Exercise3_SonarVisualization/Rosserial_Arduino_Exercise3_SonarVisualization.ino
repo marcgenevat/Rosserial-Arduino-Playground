@@ -6,7 +6,7 @@ US mysonar(13, 12); //trigger(13) echo(12)
 ros::NodeHandle  nh;
 
 sensor_msgs::Range range_msg;
-ros::Publisher pub_range( "/ultrasound", &range_msg);
+ros::Publisher pub_range( "ultrasound", &range_msg);
 
 char frameid[] = "/ultrasound_link";
 
